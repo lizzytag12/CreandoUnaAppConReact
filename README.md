@@ -1,3 +1,7 @@
+###
+
+![preview](https://github.com/lizzytag12/CreandoUnaAppConReact/blob/master/public/preview.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
